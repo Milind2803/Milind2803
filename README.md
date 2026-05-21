@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/milindnagne" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-milindnagne-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=milindnagne&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=Milind2803&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" />
 </div>
 
 ---
@@ -58,12 +58,12 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=milindnagne&show_icons=true&theme=default&hide_border=true&title_color=0e75b6&icon_color=0e75b6&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milindnagne&layout=compact&theme=default&hide_border=true&title_color=0e75b6" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Milind2803&show_icons=true&theme=default&hide_border=true&title_color=0e75b6&icon_color=0e75b6&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milind2803&layout=compact&theme=default&hide_border=true&title_color=0e75b6" height="165" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=milindnagne&theme=default&hide_border=true&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Milind2803&theme=default&hide_border=true&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" />
 </div>
 
 ---
