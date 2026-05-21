@@ -55,15 +55,10 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Milind2803&show_icons=true&theme=default&hide_border=true&title_color=0e75b6&icon_color=0e75b6&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milind2803&layout=compact&theme=default&hide_border=true&title_color=0e75b6" height="165" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Milind2803&theme=default&hide_border=true&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Milind2803&theme=minimal&hide_border=true&color=0e75b6&line=0e75b6&point=0e75b6" width="100%" />
 </div>
 
 ---
@@ -78,6 +73,23 @@
 🔐  DevSecOps & Compliance       █████████████░░░░░░░   65%
 📊  Monitoring & Alerting        ██████████████░░░░░░   70%
 ```
+
+---
+
+## 📊 Achievements & Highlights
+
+<div align="center">
+
+| 🏅 Area | ✅ Highlights |
+|---|---|
+| 🔁 CI/CD | Built end-to-end Jenkins & ArgoCD pipelines for multi-env deployments |
+| ☁️ Cloud | Provisioned & managed infra on AWS, GCP, and Azure |
+| 🐳 Containers | Designed Kubernetes clusters with Helm chart deployments |
+| 🏗️ IaC | Automated infra provisioning using Terraform & Ansible |
+| 📊 Monitoring | Set up Prometheus + Grafana dashboards for real-time observability |
+| 🔐 Security | Implemented DevSecOps practices & secrets management |
+
+</div>
 
 ---
 
